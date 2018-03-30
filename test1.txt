@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 987C-2ECD
+
+ Directory of C:\GitProject
+
+24/03/2018  21:35    <DIR>          .
+24/03/2018  21:35    <DIR>          ..
+24/03/2018  21:35                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  257,754,877,952 bytes free
